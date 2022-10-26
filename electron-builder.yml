@@ -1,0 +1,12 @@
+appId: com.meewmeew.nextronapp
+productName: Nextron Template
+copyright: Copyright © 2022 MewDevPro
+directories:
+  output: build
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
